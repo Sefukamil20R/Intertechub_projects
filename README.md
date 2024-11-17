@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my work as a Flutter an
 
  Features
 
-- Home Section: Introduction to who I am with a background image.
+- Home Section: Introduction to who I am.
 - About Me: Information about my background, skills, and contact details.
 - Projects: Display of some of my significant projects, including e-commerce websites, mobile apps, and UI/UX designs.
 - Contact: Links to contact me through email, phone, LinkedIn, GitHub, and Telegram.
